@@ -24,7 +24,7 @@ Related work: [Python controllers and MQTT integration](https://github.com/pilpr
 
 Photographs from the original personal R&D lab show component assembly, wiring and the wider installation. They provide project context, not verification that this archived firmware builds or operates correctly.
 
-Five photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, power shield, lighting and ventilation, water system, and enclosure camera. The root-inspection photograph uses an ordinary crop of the original, without generated image content.
+Five photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, power shield, lighting and ventilation, water system, and enclosure camera.
 
 <p><img src="docs/images/electronics-workbench.jpg" alt="Electronics workbench with development boards, sensors, wiring and soldering tools" width="900"></p>
 
@@ -70,20 +70,9 @@ These images document the surrounding Home Assistant and physical lab environmen
 
 ### Root-zone observations
 
-<table>
-  <tr>
-    <td width="50%"><img src="docs/images/root-zone.jpg" alt="Roots observed above an aeroponic chamber" width="420"></td>
-    <td width="50%"><img src="docs/images/root-chamber.jpg" alt="Root chamber and its contents during the experiments" width="420"></td>
-  </tr>
-  <tr>
-    <td><strong>Root-zone overview</strong><br>A visual record from the experiments.</td>
-    <td><strong>Root chamber</strong><br>The chamber used for root-zone observations.</td>
-  </tr>
-</table>
+<p><img src="docs/images/root-chamber.jpg" alt="Root chamber with visible roots and tubing during the experiments" width="420"></p>
 
-<p><img src="docs/images/root-inspection.jpg" alt="Wide close-up of roots, cropped from the original inspection photograph" width="900"></p>
-
-**Root inspection** — a closer view cropped from the original photograph.
+**Root chamber** — roots, chamber and tubing in the experimental installation.
 
 </details>
 
