@@ -24,15 +24,15 @@ Related work: [Python controllers and MQTT integration](https://github.com/pilpr
 
 Photographs from the original personal R&D lab show component assembly, wiring and the wider installation. They provide project context, not verification that this archived firmware builds or operates correctly.
 
-Five photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, power shield, lighting and ventilation, water system, and enclosure camera.
+Six photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, breadboard prototype, power shield, lighting and ventilation, water system, and enclosure camera.
 
 <p><img src="docs/images/electronics-workbench.jpg" alt="Electronics workbench with development boards, sensors, wiring and soldering tools" width="900"></p>
 
 **Electronics workbench** — component wiring and soldering during sensor and controller prototyping.
 
-<p><a href="docs/images/breadboard-prototype-1024.jpg"><img src="docs/images/breadboard-prototype-1024.jpg" alt="Breadboard-mounted sensor modules and jumper wiring during controller prototyping" width="900"></a></p>
+<p><a href="docs/images/breadboard-prototype-privacy-20260909.jpg"><img src="docs/images/breadboard-prototype-privacy-20260909.jpg" alt="Breadboard-mounted sensor modules and jumper wiring during controller prototyping" width="900"></a></p>
 
-**Breadboard prototype** — breadboard-mounted sensor modules and jumper wiring during controller prototyping. Full original frame, without cropping or AI redraw. Click to open the 1024 × 768 photograph.
+**Breadboard prototype** — breadboard-mounted sensor modules and jumper wiring during controller prototyping. The patterned wallpaper was replaced with a plain wall using AI-assisted background retouching for privacy. Click to open the 1024 × 768 photograph.
 
 <p><img src="docs/images/power-shield.jpg" alt="Commercial power shield board integrated into the prototype" width="420"></p>
 

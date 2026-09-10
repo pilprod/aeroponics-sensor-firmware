@@ -22,7 +22,7 @@ The sketches are copied without redesigning control flow, calibration constants,
 
 In `uno/uno.ino`, `variants/ec_tds_relay_serial/ec_tds_relay_serial.ino` and `variants/ph_moisture_mqtt/ph_moisture_mqtt.ino`, the local broker address is replaced by the `MQTT_BROKER` configuration macro. Their existing Wi-Fi configuration remains based on `SECRET_SSID` and `SECRET_PASS`. A placeholder `arduino_secrets.example.h` is provided beside each networked sketch; real `arduino_secrets.h` files are ignored and are not included. No authentication, TLS or new runtime behavior is implemented by these configuration changes.
 
-The four additional sketches are placed in separate directories with matching sketch filenames to avoid combining their independent `setup()` and `loop()` functions. Documentation and the shared lab photo gallery are added for context. Five photographs disclose AI background/privacy retouching. Photographs do not validate the archived code.
+The four additional sketches are placed in separate directories with matching sketch filenames to avoid combining their independent `setup()` and `loop()` functions. Documentation and the shared lab photo gallery are added for context. Six photographs disclose AI background/privacy retouching. Photographs do not validate the archived code.
 
 Backups, generated settings, local upload-device identifiers, commented-only utility examples and the unreviewed editable diagram are omitted. The gallery's wiring-diagram photograph is separate from that omitted diagram file. No source commit history is transferred. The original private GitLab repository remains intact.
 
