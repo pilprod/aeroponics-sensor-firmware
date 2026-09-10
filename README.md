@@ -24,7 +24,7 @@ Related work: [Python controllers and MQTT integration](https://github.com/pilpr
 
 Photographs from the original personal R&D lab show component assembly, wiring and the wider installation. They provide project context, not verification that this archived firmware builds or operates correctly.
 
-Six photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, breadboard prototype, power shield, lighting and ventilation, water system, and enclosure camera.
+Seven photographs have AI-retouched backgrounds or identifying areas: the electronics workbench, breadboard prototype, Home Assistant dashboard, power shield, lighting and ventilation, water system, and enclosure camera.
 
 <p><img src="docs/images/electronics-workbench.jpg" alt="Electronics workbench with development boards, sensors, wiring and soldering tools" width="900"></p>
 
@@ -49,9 +49,9 @@ Six photographs have AI-retouched backgrounds or identifying areas: the electron
 
 These images document the surrounding Home Assistant and physical lab environment. The complete installation and its control logic are not included in this firmware snapshot.
 
-<p><img src="docs/images/home-assistant-dashboard.jpg" alt="Home Assistant dashboard displaying climate and water-system measurements, lighting controls and device states" width="900"></p>
+<p><img src="docs/images/home-assistant-dashboard-privacy-20260909.jpg" alt="Home Assistant dashboard displaying climate and water-system measurements, lighting controls and device states" width="900"></p>
 
-**Home Assistant dashboard** — the lab's monitoring and control interface.
+**Home Assistant dashboard** — the lab's monitoring and control interface. Patterned wallpaper around the monitor was replaced with a plain wall using AI-assisted background retouching for privacy.
 
 <table>
   <tr>
